@@ -1,1 +1,1 @@
-# MangoChat
+# MangoChat 채팅프로젝트 깃으로 공유해서 하는방법을 실험해보는곳
